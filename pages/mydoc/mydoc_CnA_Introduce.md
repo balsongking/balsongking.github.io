@@ -1,5 +1,5 @@
 ---
-title: 회사소개
+title: CNA COMMUNICATIONS
 tags:
 keywords: 회사소개
 summary : "국내 기업통신 및 메시징 서비스 시장의 중심이 되는 기업"

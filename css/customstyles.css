@@ -1200,3 +1200,6 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+#mainHeader{ position:fixed; width:100%; }
+#main { padding-top:71px; }

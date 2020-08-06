@@ -1,4 +1,4 @@
-I"<div class="seriesContext">
+I"u<div class="seriesContext">
     <a>
         
         
@@ -228,13 +228,15 @@
         
         
         
-        
+        <a href="mydoc_seriesdemo4.html"><button type="button" class="btn btn-primary">Next: Series demo 4</button></a>
         
     </a>
     &nbsp;
     <div class="btn-group">
         <button type="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle">Jump to: <span class="caret"></span></button>
         <ol class="dropdown-menu">
+            
+            
             
             
             
@@ -464,15 +466,15 @@
             
             
             
+            <li class="active"> → 3. Series demo 3</li>
+            
+            
+            
+            
+            
             <li>
-                <a href="mydoc_seriesdemo3.html">Series demo 3</a>
+                <a href="mydoc_seriesdemo4.html">Series demo 4</a>
             </li>
-            
-            
-            
-            
-            
-            <li class="active"> → 4. Series demo 4</li>
             
             
             
@@ -482,14 +484,12 @@
     </div>
 </div>
 
-<p>This is the fourth post in the series.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel sollicitudin felis. Sed eu arcu sed ipsum semper luctus eu a tortor. Suspendisse id leo eu metus laoreet varius. Mauris consequat accumsan ex, a iaculis metus fermentum a. Praesent sit amet fermentum leo. Aliquam feugiat, nibh in ultrices mattis, felis ipsum venenatis metus, vel vehicula libero mauris a enim. Sed placerat est ac lectus vestibulum tempor. Quisque ut condimentum massa. Proin venenatis leo id urna cursus blandit. Vivamus sit amet hendrerit metus.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel sollicitudin felis. Sed eu arcu sed ipsum semper luctus eu a tortor. Suspendisse id leo eu metus laoreet varius. Mauris consequat accumsan ex, a iaculis metus fermentum a. Praesent sit amet fermentum leo. Aliquam feugiat, nibh in ultrices mattis, felis ipsum venenatis metus, vel vehicula libero mauris a enim. Sed placerat est ac lectus vestibulum tempor. Quisque ut condimentum massa. Proin venenatis leo id urna cursus blandit. Vivamus sit amet hendrerit metus.</p>
+<p>This is the third post in the series.</p>
 
 <p>Mauris consequat accumsan ex, a iaculis metus fermentum a. Praesent sit amet fermentum leo. Aliquam feugiat, nibh in ultrices mattis, felis ipsum venenatis metus, vel vehicula libero mauris a enim. Sed placerat est ac lectus vestibulum tempor. Quisque ut condimentum massa. Proin venenatis leo id urna cursus blandit. Vivamus sit amet hendrerit metus.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel sollicitudin felis. Sed eu arcu sed ipsum semper luctus eu a tortor. Suspendisse id leo eu metus laoreet varius.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel sollicitudin felis. Sed eu arcu sed ipsum semper luctus eu a tortor. Suspendisse id leo eu metus laoreet varius. Mauris consequat accumsan ex, a iaculis metus fermentum a. Praesent sit amet fermentum leo. Aliquam feugiat, nibh in ultrices mattis, felis ipsum venenatis metus, vel vehicula libero mauris a enim. Sed placerat est ac lectus vestibulum tempor. Quisque ut condimentum massa. Proin venenatis leo id urna cursus blandit. Vivamus sit amet hendrerit metus.</p>
 
 :ET
